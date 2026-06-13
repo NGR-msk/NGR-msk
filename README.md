@@ -7,7 +7,7 @@
 
 **Открыта к предложениям о работе (продуктовый аналитик).**
 
-### Стек/инструменты:
+### Стек
 - **SQL:** PostgreSQL, ClickHouse, оконные функции, CTE
 - **Python:** pandas, numpy, scipy, matplotlib, plotly, seaborn
 - **BI:** DataLens, Metabase
